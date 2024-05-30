@@ -11,6 +11,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FB542B?style=flat-square&logo=firebase&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="XML" src="https://img.shields.io/badge/-Xml-FB542B?style=flat-square&logo=xml&logoColor=white">
 </p>
 <h4>For Web</h4>
 <p>
