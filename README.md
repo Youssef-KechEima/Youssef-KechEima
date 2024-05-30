@@ -18,7 +18,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ea2845?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-430098?style=flat-square&logo=php&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-430098?style=flat-square&logo=django&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
